@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(start \"\" \"e:/Maggie/CV/Jiachenli2001.github.io-main/index.html\")"
+    ]
+  }
+}
